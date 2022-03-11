@@ -1,0 +1,12 @@
+A interroação sempre índica que precisa adicionar
+algúm comando em seu lugar
+
+cd / -> Leva para o diretorio c:
+
+cd ? -> Leva para a pasta escolhida
+
+cd .. -> Para retroceder uma pasta
+
+echo > arquivo.? -> Criar arquivo
+
+mkdir ? -> Para criar pasta(repositorio)
